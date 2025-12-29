@@ -16,7 +16,7 @@ This project covers internal concepts of information theory, including entropy c
 > **Authorship Status**: Original implementation.
 > 
 > - **Core Logic**: Fully original, implementing standard information theory formulas and Hamming coding matrices.
-> - **AI Usage**: Developed with assistance for documentation and code structure optimization. All content is generated in English.
+> - **AI Usage**: Developed with assistance for documentation and code structure optimization. 
 
 ## How to Run
 Ensure you have NumPy installed:
