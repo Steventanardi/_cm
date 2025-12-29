@@ -20,7 +20,7 @@ A detailed explanation of the formulas used (Standard Line Equation, Cramer's Ru
 > **Authorship Status**: Original implementation.
 > 
 > - **Core Logic**: Fully original, optimized for precision using standard geometric algorithms.
-> - **AI Usage**: This project was developed with the assistance of an AI (Antigravity). Documentation and comments were generated in English.
+> - **AI Usage**: This project was developed with the assistance of an AI. Documentation and comments were refined.
 
 ## How to Run
 Run the main demonstration script:

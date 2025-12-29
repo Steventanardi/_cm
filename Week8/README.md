@@ -16,7 +16,7 @@ This project explores the mathematical derivations and manual implementations of
 > **Authorship Status**: Original implementation.
 > 
 > - **Core Logic**: Manual implementation of statistical formulas to demonstrate the underlying math.
-> - **AI Usage**: Developed with AI assistance. Documentation and mathematical explanations were generated in English.
+> - **AI Usage**: Developed with AI assistance. Documentation and mathematical explanations were refined.
 
 ## How to Run
 ```bash
