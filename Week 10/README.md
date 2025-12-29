@@ -19,7 +19,7 @@ This project implements fundamental linear algebra algorithms and explores the c
 > **Authorship Status**: Original implementation.
 > 
 > - **Core Logic**: Manual implementation of matrix algorithms using NumPy for base operations.
-<<<<<<< HEAD
+
 > - **AI Usage**: Developed with assistance for conceptual summaries and documentation structure. 
 
 
