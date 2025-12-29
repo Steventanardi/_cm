@@ -1,0 +1,22 @@
+PS C:\Users\tanar\Documents\GitHub\_cm> & C:/Python314/python.exe c:/Users/tanar/Documents/GitHub/_cm/Homework8/hw8.py
+C:\Users\tanar\AppData\Roaming\Python\Python314\site-packages\torch\_subclasses\functional_tensor.py:279: UserWarning: Failed to initialize NumPy: No module named 'numpy' (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\torch\csrc\utils\tensor_numpy.cpp:84.)
+  cpu = _conversion_method_template(device=torch.device("cpu"))
+Start: x=0.00, y=0.00, z=0.00
+Step 0: f=8.0000 | x=0.200, y=0.400, z=0.600
+Step 10: f=-5.8386 | x=0.914, y=1.828, z=2.742
+Step 20: f=-5.9981 | x=0.991, y=1.982, z=2.972
+Step 30: f=-6.0000 | x=0.999, y=1.998, z=2.997
+Step 40: f=-6.0000 | x=1.000, y=2.000, z=3.000
+Step 50: f=-6.0000 | x=1.000, y=2.000, z=3.000
+Step 60: f=-6.0000 | x=1.000, y=2.000, z=3.000
+Step 70: f=-6.0000 | x=1.000, y=2.000, z=3.000
+Step 80: f=-6.0000 | x=1.000, y=2.000, z=3.000
+Step 90: f=-6.0000 | x=1.000, y=2.000, z=3.000
+------------------------------
+Final Result:
+x = 1.0000 (Target: 1.0)
+y = 2.0000 (Target: 2.0)
+z = 3.0000 (Target: 3.0)
+Min Value = -6.0000 (Target: -6.0)
+PS C:\Users\tanar\Documents\GitHub\_cm>
+
