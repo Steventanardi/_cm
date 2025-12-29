@@ -1,0 +1,8 @@
+PS C:\Users\tanar\Documents\GitHub\_cm> & C:/Python314/python.exe c:/Users/tanar/Documents/GitHub/_cm/Homework9/hw9.py
+C:\Users\tanar\AppData\Roaming\Python\Python314\site-packages\torch\_subclasses\functional_tensor.py:279: UserWarning: Failed to initialize NumPy: No module named 'numpy' (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\torch\csrc\utils\tensor_numpy.cpp:84.)
+  cpu = _conversion_method_template(device=torch.device("cpu"))
+Start: x=0.0, y=0.0, z=0.0
+--------------------
+Found Minimum at: x=1.00, y=2.00, z=3.00
+Minimum Value: -6.00
+PS C:\Users\tanar\Documents\GitHub\_cm> 
